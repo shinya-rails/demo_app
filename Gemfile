@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'therubyracer'
+
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
